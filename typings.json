@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mysql": "registry:npm/mysql#2.11.1+20161114232222",
+    "request": "registry:npm/request#2.69.0+20160428223725"
+  },
+  "globalDependencies": {
+    "moment": "registry:dt/moment#2.11.1+20161010105546",
+    "require": "registry:dt/require#2.1.20+20160919185614"
+  }
+}
